@@ -1,3 +1,7 @@
+Version: 0.2.1
+------------
+- Modified error handling
+
 Version: 0.2.0
 ------------
 - Modified error handling
