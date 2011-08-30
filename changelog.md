@@ -1,3 +1,7 @@
+Version: 0.2.0
+------------
+- Modified error handling
+
 Version: 0.1.1
 ------------
 - Fixed revision
